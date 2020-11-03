@@ -1,13 +1,7 @@
 <?php
 namespace App;
 
-use App\Model\Channel;
-use App\Model\Chat;
-use App\Model\Document;
-use App\Model\Live;
-use App\Model\Role;
-use App\Model\UserInfo;
-use App\Model\Video;
+
 use App\Model\View;
 use Carbon\Carbon;
 use Illuminate\Auth\Authenticatable;
